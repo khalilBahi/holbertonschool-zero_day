@@ -1,0 +1,1 @@
+this is readme for a directory naed git in the folder holberton school zero day
